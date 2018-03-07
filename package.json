@@ -1,0 +1,27 @@
+{
+  "name": "redparentjs",
+  "version": "1.0.0",
+  "description": "parent redirect",
+  "main": "dist/redparent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/os-pek/redparentjs.git"
+  },
+  "keywords": [
+    "parent",
+    "child",
+    "opener",
+    "redirect",
+    "reload",
+    "tab"
+  ],
+  "author": "ospek project <os-pek@github.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/os-pek/redparentjs/issues"
+  },
+  "homepage": "https://github.com/os-pek/redparentjs#readme"
+}
